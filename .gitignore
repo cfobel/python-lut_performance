@@ -1,0 +1,3 @@
+*.pyc
+*.so
+src/cLut_performance.c
